@@ -1,0 +1,70 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Gaming Laptop",
+            "description": "High-performance laptop with 16GB RAM and 512GB SSD",
+            "price": 1499.99,
+            "category": "Electronics",
+            "stock": 12,
+            "rating": 4.5,
+            "image": "https://via.placeholder.com/150"
+        },
+        {
+            "id": 2,
+            "name": "Premium Smartphone",
+            "description": "Latest flagship smartphone with advanced camera system, 5G connectivity, and all-day battery life. Perfect for professionals and tech enthusiasts.",
+            "price": 799.99,
+            "category": "Electronics",
+            "stock": 6,
+            "rating": 4.9,
+            "image": "https://via.placeholder.com/151"
+        },
+        {
+            "id": 3,
+            "name": "Wireless Earbuds",
+            "description": "Premium wireless earbuds with noise cancellation, spatial audio, and quick charge case. Perfect for music lovers and commuters.",
+            "price": 199.99,
+            "category": "Electronics",
+            "stock": 7,
+            "rating": 4.2,
+            "image": "https://via.placeholder.com/151"
+        },
+        {
+            "id": 4,
+            "name": "Smart Watch",
+            "description": "Advanced fitness tracking, heart rate monitoring, GPS, and smartphone integration. Your perfect health and productivity companion.",
+            "price": 299.99,
+            "category": "Electronics",
+            "stock": 3,
+            "rating": 4.8,
+            "image": "https://via.placeholder.com/151"
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "username": "john_doe",
+            "email": "john@example.com",
+            "password": "password123",
+            "role": "customer",
+            "address": "123 Main St, New Delhi"
+        },
+        {
+            "id": 2,
+            "username": "admin_user",
+            "email": "admin@example.com",
+            "password": "adminpass",
+            "role": "admin",
+            "address": "456 Admin Road, Mumbai"
+        },
+        {
+            "id": 3,
+            "username": "jane_smith",
+            "email": "jane@example.com",
+            "password": "jane2024",
+            "role": "customer",
+            "address": "789 Market St, Bangalore"
+        }
+    ]
+}
