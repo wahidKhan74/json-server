@@ -5,7 +5,7 @@
       "name": "Gaming Laptop",
       "description": "High-performance laptop with 16GB RAM and 512GB SSD",
       "price": 1499.99,
-      "category": "Electronics",
+      "category": "electronics",
       "stock": 12,
       "rating": 4.5,
       "image": "https://via.placeholder.com/150"
@@ -15,7 +15,7 @@
       "name": "Premium Smartphone",
       "description": "Latest flagship smartphone with advanced camera system, 5G connectivity, and all-day battery life. Perfect for professionals and tech enthusiasts.",
       "price": 799.99,
-      "category": "Electronics",
+      "category": "electronics",
       "stock": 6,
       "rating": 4.9,
       "image": "https://via.placeholder.com/151"
@@ -25,20 +25,26 @@
       "name": "Wireless Earbuds",
       "description": "Premium wireless earbuds with noise cancellation, spatial audio, and quick charge case. Perfect for music lovers and commuters.",
       "price": 199.99,
-      "category": "Electronics",
+      "category": "electronics",
       "stock": 7,
       "rating": 4.2,
       "image": "https://via.placeholder.com/151"
     },
     {
-      "id": "4",
-      "name": "Smart Watch",
-      "description": "Advanced fitness tracking, heart rate monitoring, GPS, and smartphone integration. Your perfect health and productivity companion.",
+      "name": "Apple Mini Smart Watch",
       "price": 299.99,
-      "category": "Electronics",
-      "stock": 3,
-      "rating": 4.8,
-      "image": "https://via.placeholder.com/151"
+      "description": "Advanced fitness tracking, heart rate monitoring, GPS, and smartphone integration. Your perfect health and productivity companion.",
+      "stock": 299,
+      "category": "electronics",
+      "id": "4"
+    },
+    {
+      "name": "High Excel Gaming Laptop",
+      "price": 1459.99,
+      "description": "Advance High XL-performance laptop with 16GB RAM and 512GB SSD",
+      "stock": 1459,
+      "category": "electronics",
+      "id": "5"
     }
   ],
   "users": [
